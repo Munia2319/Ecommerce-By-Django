@@ -1,5 +1,5 @@
 # Ecommerce-By-Django
-It is a part of ecommerce project backened developed with django, frontend developed with Html,CSS and Js. 
+It is a part of ecommerce project whose backened developed with django, frontend developed with Html,CSS and Js. 
 #Features(mentioned only backend features implmented with django)-
 1.Login
 2.Logout
